@@ -1,0 +1,15 @@
+Mike - PARENT: David, Charlie
+Jane - PARENT: Timmy
+Mary - PARENT: Gregory
+Oleg - PARENT: Anna, Jane
+Billianna - PARENT: Anna, Jane
+Anna - PARENT: David, Charlie
+Timmy - PARENT: Lola
+Vektor - PARENT: Gregory
+Dane - PARENT: Timmy
+Charlie - PARENT: Davidinny
+David - PARENT: Vektor
+Jane - WIFE: Dane
+Billianna - WIFE: Oleg
+Anna - WIFE: Mike
+Vektor - HUSBAND: Mary
